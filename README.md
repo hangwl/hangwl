@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hangwl
 - 👀 I’m interested in exploring the programming space.
-- 🌱 I’m currently learning how to apply machine learning models to provide valuable insights for my personal projects.
+- 🌱 I have some background in mathematics and economics, and I’m currently learning how to apply machine learning models to provide valuable insights for my personal projects.
 
 <!---
 hangwl/hangwl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
