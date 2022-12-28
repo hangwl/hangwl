@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hangwl
 - 👀 I’m interested in exploring the programming space.
-- 🌱 I have some background in mathematics and economics, and I’m currently learning how to apply machine learning models to provide valuable insights for my personal projects.
-- 👁️ Books I'm currently reading:
+- 🌱 I have some background in mathematics and economics.
+- 👁️ Books I'm plan to finish reading:
      - The Subtle Art of Not Giving a Fuck
      - Never Split the Difference
      - Where Are the Customers' Yachts?
