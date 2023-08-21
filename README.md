@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @hangwl
-- 👀 I’m interested in exploring the programming space.
-- 🌱 I have some background in mathematics and economics.
-- 👁️ Books I plan to read:
-     - Algorithms to Live By
-- 💯 My current goals are:
+Current Projects:
      - FULLSTACKOPEN
 <!---
 hangwl/hangwl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
